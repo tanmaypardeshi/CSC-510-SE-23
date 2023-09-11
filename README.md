@@ -2,11 +2,11 @@
 
 ## Repository for CSC 510 - Software Engineering
 
-## Group Details
+## Group Details : 
 
 ### Group Number : 73
 
-### Group Members
+### Group Members :
 
 |          Name           | Unity ID |
 |:-----------------------:|:--------:|
