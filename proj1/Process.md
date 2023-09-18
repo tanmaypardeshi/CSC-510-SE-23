@@ -22,14 +22,6 @@ Conversion notes:
 
 <h1>Project 1 Difficulties and Lessons Learned</h1>
 
-Samuel Kwiatkowski-Martin
-
-Tanmay Pardeshi
-
-Chandana Ray
-
-Abhinav Sinha
-
 The purpose of this text is to go over what was hard about getting the Teacher’s Pet Bot to run. Additionally, we will discuss how those hardships could have been avoided, and most importantly what practices our group will commit to, in order to make sure others don’t face these hardships in the future. 
 
 The first thing that should be noted is that the installation guide wasn’t explicitly clear on how to install the software. For example, there are some details clearly missing from the instructions on the .env file. For instance, the installation guide doesn’t explain what the .env file is/what it does, or where in the directory path it should be located. What’s worse is that the .env file example references things such as “test-bot-application-id” and “custom bot version”, without explaining what those are. All of this led to some extra pain spent figuring out what the original creators intended with the .env file. The issues the group faced will working with the .env file could have been quickly circumvented had the installation guide been rigorous in its explanations. We also noticed that the installation guide hadn’t actually been updated by the last group to work on the bot, which also shows the last group didn’t take the time to make sure the installation guide was in peak condition. Had the last group simply updated the installation guide at all, we are sure the .env file instructions would have been more clear. With all that in mind, the group has committed to making sure we are very rigorous and detailed in any guides we upload to GitHub, so that working together will be easier, but also so that when future groups try to work with our code it will be easier for them as well. Also we commit to making sure we update all the instruction guides on the GitHub that are not already up to par with how they should be, as had the last group done this, it would have saved us a lot of wasted time. 
