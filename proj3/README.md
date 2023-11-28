@@ -4,7 +4,7 @@
 
 ## [Click here to access the grading rubric](./PopcornPicks_Rubric.md)
 
-## [Click here to access the video]()
+## [Click here to access the video](https://youtu.be/egBY7Yo-reY)
 
 ## Evidence of Discord Chat
 ![Evidence Discord](./assets/discord-chat.gif)
